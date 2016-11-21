@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    padding-top: 20px;
+    color: #666;
+    font-family: 'Arimo', sans-serif;
+
+}
+
+button {
+    color: white;
+    height: 30px;
+    width: 30px;
+    border-radius: 0;
+    background-color: teal;
+    border: none;
+}
